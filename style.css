@@ -41,7 +41,8 @@ body{
 }
 #newtask input:focus{
     outline: none;
-    border-color: #0d75ec;
+    background: linear-gradient(to right, #9b7ee4, #68e9e9, #d2d541, #41e7e7, #1ac885, #4ef0f0, #98ff12, #2cf5f5);
+    border-color: #0a2ea4;
 }
 
 #newtask button{
@@ -85,7 +86,8 @@ body{
 
 }
 .task{
-    background-color: #c5e1e6;
+    background: linear-gradient(to right, #9b7ee4, #68e9e9, #98ff12,  #41e7e7, #e1bad9, #4ef0f0,  #fbff15, #2cf5f5);
+
     height: 50px;
     margin-bottom: 8px;
     padding: 5px 10px;
